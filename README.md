@@ -7,10 +7,9 @@ I am a **Data Engineer** with a strong interest lies in **Deep Learning**, parti
 As I evolve in my career, I am focusing on mastering advanced **AI** techniques and contributing to impactful projects.
 
 ### Key Interests:
-- **Deep Learning**
-- **Large Language Models (LLM)**
-- **Computer Vision**
-- **Natural Language Processing (NLP)**
+- 🤖**Deep Learning**
+- 📚**Large Language Models (LLM)**
+- ⏿**Computer Vision**
 
 Feel free to reach out if you'd like to discuss AI, collaborate on a project, or chat about the latest in **LLM**, **CV**, and **DL**!
 
