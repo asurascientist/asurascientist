@@ -1,4 +1,4 @@
-<img align="center" width="100%" alt="" src="https://github.com/asurascientist/asurascientist/blob/master/src/bussy-man.gif" />
+<img align="center" width="100%" alt="" src="https://github.com/asurascientist/asurascientist/blob/master/src/bussy_man.gif" />
 
 ## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm Asura! <img src="https://komarev.com/ghpvc/?username=AsuraAI" height="20px">
 
@@ -43,6 +43,30 @@ Feel free to reach out if you'd like to discuss AI, collaborate on a project, or
 </p>
 
 <br>
+
+## 🎧 Spotify Playing:
+
+<p align="center">
+    <a href="https://open.spotify.com/user/9t81g6cm836074my09fzcuute" target="_blank"> 
+        <img width="100%" src="https://spotify-playing-now-phi.vercel.app/api/spotify" alt="Asura's Spotify" />
+    </a>
+</p>
+<br>
+
+## 🏆 GitHub Trophies:
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=asurascientist&column=8&row=1">
+</p>
+<br>
+
+## 📈 GitHub Contribution Graph:
+
+<div align="center">
+    <img height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=asurascientist&theme=minimal"/>
+</div>
+<br>
+
 
 ## 📈 GitHub Stats:
 
